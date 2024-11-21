@@ -1,6 +1,7 @@
-venv
-ml-api/data
+venv/
+data/
 *.pyc
+*.pyo
 *.db
 *.csv
 

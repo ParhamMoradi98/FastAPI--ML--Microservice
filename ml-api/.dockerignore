@@ -1,0 +1,8 @@
+venv/
+ml-api/data
+*.pyc
+*.pyo
+*.db
+*.csv
+__pycache__/
+data/
