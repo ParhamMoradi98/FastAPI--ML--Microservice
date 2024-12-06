@@ -61,4 +61,4 @@ This project provides a **Scalable Machine Learning API** designed for **non-exp
 ---
 
 ### SQLite Integration
-The SQLite database is used to store the best-performing models. Ensure persistent storage is configured in production environments.
+The best-performing models are stored in the SQLite database.
